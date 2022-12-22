@@ -5,12 +5,13 @@ body{
   margin: 0;
   font-family:'Arial', sans-serif;
   font-size: 17px;
-  color: #6c7279;
+  color: #40494D;
 }
 
 h1,h2,h3,h4,h5,h6{
   font-family: 'Times New Roman', sans;
   font-weight: 400px;
+  color: #283337;;
 }
 
 h1{
@@ -31,7 +32,44 @@ h5{
 h6{
   font-size: 20px;
 }
+.container{
+  max-width:987px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
 
+.navbar ul{
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+}
+
+.navbar a{
+  text-decoration: none;
+  color: gray;
+  padding: 15px;
+  border-radius: 5px;
+  margin: 7px;
+  font-size: 12px;
+}
+
+.navbar a.sign-in{
+  border: 1px solid black ;
+  padding: 14px 13px;
+  margin-left: 15px;
+  border-radius: 100px;
+}
+
+.navbar a.sign-up{
+  border: 1px solid black;
+  background-color: rgb(61, 60, 60);
+  color: rgb(214, 207, 207);
+  border-radius: 50px;
+  padding: 10px 20px;
+}
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
   flex-grow: 0;
@@ -93,10 +131,4 @@ h6{
   flex-basis: 8.33%;
   flex-grow: 0;
   flex-shrink: 0;
-}
-
-.navbar ul{
-  display: flex;
-  justify-content: center;
- 
 }
