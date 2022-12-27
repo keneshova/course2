@@ -100,21 +100,19 @@ h6{
   text-decoration: none;
   font-size: 11px;
 }
-.bacground img.image{
-  margin-left: 60%;
-  margin-top: -65%;
-}
-
 
 .col-6 li{
   list-style-type: none;
 }
 .mini-logo{
+  background-color: #F3F7F4;
   display: flex;
   justify-content: space-around;
-  padding: 40px;
-  margin: 40px;
+ 
   width: 100%;
+  align-items: flex-end;
+  margin-bottom: 20px;
+
 }
 
 .bacground-2{
@@ -145,6 +143,10 @@ h6{
   padding: 10px 15px;
   text-decoration: none;
   font-size: 11px;
+}
+.white-background{
+  
+
 }
 
 .col-12 {
