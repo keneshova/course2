@@ -149,6 +149,15 @@ h6{
   width: 100%;
 }
 
+.part3 h2{
+  text-align: center;
+  
+}
+.card .number{
+  justify-content: center;
+}
+
+
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
   flex-grow: 0;
