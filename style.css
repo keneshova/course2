@@ -79,8 +79,16 @@ h6{
 
 
 
-.bacground{
+.background{
   background-color: #F3F7F4;
+  background-image: url(./img/Frame\ \(2\).png);
+  background-repeat: no-repeat;
+  background-position: 80%;
+  padding: 100px 0px;
+}
+
+.background .col-4{
+  
 }
 
 .col-4 a.sign-up{
@@ -97,20 +105,16 @@ h6{
   margin-top: -65%;
 }
 
-.bacground .col-6{
-  margin-top:45%;
-  margin-left: 25px;
-}
-
 
 .col-6 li{
   list-style-type: none;
 }
-.card{
+.mini-logo{
   display: flex;
   justify-content: space-around;
   padding: 40px;
   margin: 40px;
+  width: 100%;
 }
 
 .bacground-2{
@@ -119,6 +123,18 @@ h6{
   margin: 20px;
   width: 30%;
   height: 50%;
+}
+.bacground-2 p{
+  font-size: 13px;
+}
+.bacground-2 .sign-in{
+  text-decoration: none;
+  color: black;
+  border-radius: 5px;
+  font-size: 13px;
+  font-weight: 20px;
+  justify-content: right;
+  align-items: flex-end;
 }
 
 .sign-up{
