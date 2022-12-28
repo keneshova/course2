@@ -153,8 +153,10 @@ h6{
   text-align: center;
   
 }
-.card .number{
-  justify-content: center;
+.part3 .number{
+  text-align: center;
+  font-size: 40px;
+  font-weight: 400px;
 }
 
 
