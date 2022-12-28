@@ -144,6 +144,11 @@ h6{
   text-decoration: none;
   font-size: 11px;
 }
+
+.white-background .cloud{
+  color: rgb(78, 76, 76);
+  font-weight: 700;
+}
 .part3{
   background-color: #F3F7F4;
   width: 100%;
