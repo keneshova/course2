@@ -128,17 +128,20 @@ h6{
 
 }
 
+.white-background{
+  display: flex;
+  margin: 50px;
+  padding: 10px;
+}
 .bacground-2{
   background-color: #F3F7F4;
-  padding: 50px;
-  margin: 20px;
-  width: 30%;
-  height: 50%;
+  
 }
-.bacground-2 p{
-  font-size: 14px;
-  font-weight: 600;
-  padding: 30px;
+.bacground-2 a{
+  font-size: 16px;
+  font-weight: 100px;
+  padding-bottom: 50px;
+  padding-left: 180px;
 }
 .bacground-2 .sign-in{
   display: flex;
