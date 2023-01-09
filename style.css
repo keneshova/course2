@@ -77,7 +77,12 @@ h6{
   padding: 10px 20px;
 }
 
-
+.header{
+  background-color: #F3F7F4;
+  display: flex;
+  padding-top: 179px;
+  padding-left: 105px;
+}
 
 .col-6 li{
   list-style-type: none;
