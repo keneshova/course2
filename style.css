@@ -174,8 +174,9 @@ h6{
   width: 100%;
 }
 
-.part3 h2{
+.part3 .our-padd{
   text-align: center;
+  padding-top: 150px;
   
 }
 .part3 .number{
