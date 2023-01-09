@@ -81,27 +81,25 @@ h6{
   padding: 12px 20px;
 }
 
-.header-container{
+.header .col-6{
   background-color: #F3F7F4;
   display: flex;
-  padding-top: 170px;
-  padding-left: 105px;
-  padding-right: 105px;
-  padding-bottom: 181px ;
+  padding: 50px 30px 40px 50px ;
+ 
 }
-.header-title{
+ .header .col-6 .header-title{
   font-size: 50px;
   font-weight: 400;
   line-height: 60px;
   padding-left: 0%;
   padding-top: 38px;
 }
-.header-subtitle{
+.header .col-6 .header-subtitle{
   font-size: 21px;
   font-weight: 400;
   line-height: 31px;
 }
-.header-container a.sign-in{
+.header .col-6 a.sign-in{
   border: 1px solid rgb(61, 60, 60);
   background-color: rgb(61, 60, 60);
   color: rgb(214, 207, 207);
@@ -109,6 +107,10 @@ h6{
   padding: 10px 27px;
   text-decoration: none;
   font-size: 11px;
+
+}
+.header img{
+
 }
 
 .col-6 li{
