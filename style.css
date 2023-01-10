@@ -196,8 +196,13 @@ h6{
   display: flex;
   margin: 200px;
   width: 100%;
-  padding-left: 180px;
-  padding-right: 80px;
+  padding-left: 30%;
+  padding-right:80%;
+}
+.part-4 .learn-link{
+  text-decoration: none;
+  color: #40494D;
+  font-size: 14px;
 }
 
 .part-4 .title .paragraph{
