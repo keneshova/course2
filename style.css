@@ -194,7 +194,10 @@ h6{
 .part-4 .col-6{
   display: flex;
   margin-top: 20%;
-  padding-left: 70px;
+  padding-left: 90px;
+  padding-left: 40px;
+  width: 140px;
+  height: 500px;
 
   
 }
