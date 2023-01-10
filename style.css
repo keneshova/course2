@@ -209,6 +209,10 @@ h6{
   text-decoration: none;
 }
 
+.part-4 .par-1{
+  font-size: 14px;
+}
+
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
   flex-grow: 0;
