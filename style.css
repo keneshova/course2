@@ -203,6 +203,11 @@ h6{
 .part-4 .title .paragraph{
   color:#40494D;
 }
+.part-4 .our-link{
+  color: #283337;
+  font-size: 10px;
+  text-decoration: none;
+}
 
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
