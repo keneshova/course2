@@ -309,7 +309,11 @@ footer{
   background-color:#283337;
   color:#FFFFFF;
   border-radius: 60px;
- 
+  padding: 10px ;
+  text-decoration: none;
+  font-size: 12px;
+  padding-left: 30px;
+  padding-right: 30px;
 
 }
 .col-12 {
