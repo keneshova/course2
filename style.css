@@ -46,6 +46,7 @@ h6{
 .row{
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .navbar ul{
@@ -83,8 +84,9 @@ h6{
 .header .col-6{
   background-color: #F3F7F4;
   display: flex;
+  position: relative;
   margin: 0;
-    width: 100%;
+  width: 100%;
   padding-left: 20px;
   padding-right: 0px; 
   padding-top: 10%;
@@ -97,7 +99,7 @@ h6{
   padding-left: 0%;
   padding-top: 38px;  
   
-}
+} 
 .header .col-6 .header-subtitle{
   font-size: 21px;
   font-weight: 400;
@@ -285,8 +287,16 @@ footer{
 .containerr{
   max-width: 1140px;
   margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
+.col-5 .par{
+  color:#CFD2D3;
+  min-width: 250px;
+}
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
   flex-grow: 0;
