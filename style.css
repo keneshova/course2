@@ -254,6 +254,10 @@ h6{
   
 }
 
+.part-6 .subtitle-2{
+  text-align: center;
+}
+
 
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
