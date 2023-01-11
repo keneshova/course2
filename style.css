@@ -305,7 +305,9 @@ footer{
 }
 
 .col-5 .foot-link{
-  
+  border: 1px solid #283337;
+ 
+
 }
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
