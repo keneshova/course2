@@ -276,7 +276,10 @@ footer{
   display: flex;
   background-color: #101C21;
   justify-content: flex-end;
- 
+  position: relative;
+  width: 100%;
+  min-height: 350px;
+  padding: 50px;
 }
 
 
