@@ -297,6 +297,10 @@ footer{
   color:#CFD2D3;
   min-width: 250px;
 }
+
+.col-5 .par-one{
+  padding-top: 25px;
+}
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
   flex-grow: 0;
