@@ -242,6 +242,11 @@ h6{
   padding-bottom: 60px;
   padding-top: 7  0px;
 }
+
+
+.part-6{
+  background-color: #F3F7F4;
+}
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
   flex-grow: 0;
