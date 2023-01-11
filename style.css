@@ -84,9 +84,11 @@ h6{
   background-color: #F3F7F4;
   display: flex;
   margin: 0;
-  padding: 90px 0px 150px 85px ;
-  padding-left: 60px;
-  padding-right: 10px; 
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 0px; 
+  padding-top: 10%;
+  padding-bottom: 10%;
 }
  .header .col-6 .header-title{
   font-size: 50px;
@@ -233,6 +235,7 @@ h6{
 .part-5 .title-built{
   text-align: center;
   padding-bottom: 60px;
+  padding-top: 7  0px;
 }
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
