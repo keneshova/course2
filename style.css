@@ -271,6 +271,15 @@ h6{
   padding-right: 30px;
 }
 
+
+footer{
+  display: flex;
+  background-color: #101C21;
+  
+}
+
+
+
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
   flex-grow: 0;
