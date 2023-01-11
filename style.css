@@ -31,8 +31,7 @@ h5{
   font-size: 28;
 }
 h6{
-  font-size: 16px;
-  font-family: Arial, sans-serif;
+  font-size: 20px;
 }
 .container{
   max-width:987px;
@@ -287,17 +286,18 @@ footer{
 
 .containerr{
   max-width: 1140px;
-  margin: 0 auto;
+  margin:0 auto;
+  padding: 10px;
+}
+.foot-line{
   display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
 }
 
  .title-product{
   font-size: 13px;
-  font-weight: 150;
+  font-weight: 200;
   color: #878D90;
+  font-family: Arial, sans-serif;
 }
 
 .col-5 .par{
