@@ -248,6 +248,13 @@ h6{
   background-color: #F3F7F4;
   padding:50px 30px;
 }
+
+.part-6 .title-start{
+  text-align: center;
+  
+}
+
+
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
   flex-grow: 0;
