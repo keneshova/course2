@@ -246,6 +246,7 @@ h6{
 
 .part-6{
   background-color: #F3F7F4;
+  padding:50px 30px;
 }
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
