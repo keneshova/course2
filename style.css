@@ -84,7 +84,7 @@ h6{
   background-color: #F3F7F4;
   display: flex;
   margin: 0;
-  width: 100%;
+    width: 100%;
   padding-left: 20px;
   padding-right: 0px; 
   padding-top: 10%;
@@ -131,15 +131,23 @@ h6{
 
 .white-background{
   display: flex;
-  margin: 50px;
-  padding: 30px;
+  margin: 100px;
+}
+.white-background .kion-paragraph{
+  padding-bottom: 20px;
 }
 .bacground-2{
   background-color: #F3F7F4;
+  padding: 0px;
+  padding-left: 50px;
+  padding-left: 50px;
+  width: 100%;
+  height: 100%;
   
 }
-.bacground-2 .check-mark{
-  padding-top: 50px;
+.bacgroun d-2 .check-mark{
+  padding-top: 0px;
+  width: ;
 }
 .bacground-2 a{
   font-size: 16px;
