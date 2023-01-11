@@ -275,7 +275,8 @@ h6{
 footer{
   display: flex;
   background-color: #101C21;
-  
+  justify-content: flex-end;
+ 
 }
 
 
