@@ -335,8 +335,8 @@ footer{
 }
 
 .col-7 .par-two{
-  text-decoration: none;
   list-style-type: none;
+  color: #FFFFFF;
 }
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
