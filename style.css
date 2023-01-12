@@ -331,9 +331,10 @@ footer{
   font-weight: 200;
   color: #878D90;
   font-family: Arial, sans-serif;
+  padding-left: 40px;
 }
 
-.foot-line .par-two{
+.col-7 .par-two{
   text-decoration: none;
   list-style-type: none;
 }
