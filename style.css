@@ -334,9 +334,15 @@ footer{
   padding-left: 40px;
 }
 
-.col-7 .par-two{
+ a.par-two{
+  text-decoration: none;
   list-style-type: none;
-  color: #FFFFFF;
+  color:#FFFFFF;
+  font-weight: 300;
+  font-size: 12px;
+}
+.foot-line ul{
+  list-style-type: none;
 }
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
