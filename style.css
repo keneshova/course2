@@ -337,13 +337,14 @@ footer{
  a.par-two{
   text-decoration: none;
   list-style-type: none;
-  color:#FFFFFF;
+  color:#CFD2D3;
   font-weight: 300;
-  font-size: 12px;
+  font-size: 11px;
 }
 .foot-line ul{
   list-style-type: none;
   min-width: 200px;
+
 
 }
 .col-12 {
