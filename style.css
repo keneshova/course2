@@ -331,7 +331,7 @@ footer{
   font-weight: 200;
   color: #878D90;
   font-family: Arial, sans-serif;
-  padding-left: 70px;
+  padding-left: 35px;
 }
 
  a.par-two{
@@ -343,7 +343,7 @@ footer{
 }
 .foot-line ul{
   list-style-type: none;
-  padding: 0 70px;
+  min-width: 200px;
 
 }
 .col-12 {
