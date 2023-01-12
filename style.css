@@ -325,6 +325,12 @@ footer{
   padding-right: 30px;
 
 }
+
+.foot-line .tit-resources{
+  font-size: 13px;
+  
+
+}
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
   flex-grow: 0;
