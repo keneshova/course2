@@ -344,8 +344,10 @@ footer{
 .foot-line ul{
   list-style-type: none;
   min-width: 200px;
+}
 
-
+ .image-vector{
+  padding-top: 25px;
 }
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
