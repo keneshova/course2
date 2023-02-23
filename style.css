@@ -34,13 +34,12 @@ h6{
   font-size: 20px;
 }
 .container{
-  max-width:987px;
+  max-width:1440px;
   margin: 0 auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  width: 100%;
+  padding: 0 15px;
+
+
 }
 
 .row{
@@ -48,7 +47,18 @@ h6{
   flex-wrap: wrap;
   justify-content: space-between;
 }
-
+.navbar{
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  padding: 15px;
+  padding-left:50px;
+  padding-right: 40px;
+}
+.img-frame-1{
+  width: 100px;
+  height: 50px;
+}
 .navbar ul{
   display: flex;
   justify-content: center;
@@ -81,31 +91,33 @@ h6{
   padding: 12px 20px;
 }
 
-.header .col-6{
+.header {
   background-color: #F3F7F4;
   display: flex;
   position: relative;
-  margin: 0;
-  width: 100%;
-  padding-left: 20px;
-  padding-right: 0px; 
-  padding-top: 10%;
-  padding-bottom: 10%;
+  padding: 20px 20px;
+  
+ 
 }
- .header .col-6 .header-title{
+
+.col-6{
+  width: 50%;
+  padding: 20px ;
+}
+ .header .header-title{
   font-size: 50px;
   font-weight: 300;
   line-height: 50px;
-  padding-left: 0%;
   padding-top: 38px;  
+  padding: 0px;
   
 } 
-.header .col-6 .header-subtitle{
+.header .header-subtitle{
   font-size: 21px;
   font-weight: 400;
   line-height: 31px;
 }
-.header .col-6 a.sign-in{
+.header a.sign-in{
   border: 1px solid rgb(61, 60, 60);
   background-color: rgb(61, 60, 60);
   color: rgb(214, 207, 207);
@@ -130,8 +142,11 @@ h6{
   padding-bottom: 100px;
 
 }
+.mini-logo img {
+  margin: 0 50px;
+}
 
-.white-background{
+.row.white-background{
   display: flex;
   margin: 100px;
 }
@@ -200,18 +215,16 @@ h6{
   padding-bottom: 100px;
 }
 
-.part-4 .col-7{
+.part-4 .col-7 .col-5{
   display: flex;
-  margin-top: 40px;
-  width: 100px;
   padding-bottom: 100px;  
 }
  .part-4 .col-5{
-  padding: 80px;
+  padding: 60px;
  }
 
 .part-4 .img-6{
-  padding-top: 15%;
+  padding-top: 50px;
 }
 .part-4 .learn-link{
   text-decoration: none;
@@ -348,6 +361,11 @@ footer{
 
  .image-vector{
   padding-top: 25px;
+  padding-left: 0;
+}
+
+.sign-line{
+  
 }
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
