@@ -210,15 +210,19 @@ h6{
 .part-4{
   display: flex;
   background-color: #FFFFFF;
-  padding-top: 20%;
+  padding-top: 10%;
+  padding-bottom: 10%;
   margin: 0 auto;
-  padding: 50px;
+  width: 100%;
+  height: 100%;
 
 }
 
 .part-4 .img-6{
   padding-top: 15%;
   margin: 0 auto;
+  width: 75%;
+  padding-left: 100px;
 }
 .part-4 .learn-link{
   text-decoration: none;
@@ -238,6 +242,8 @@ h6{
 
 .part-4 .par-1{
   font-size: 14px;
+  padding: 0;
+  margin: 0 auto;
 
 }
 
@@ -290,80 +296,35 @@ footer{
   justify-content: flex-end;
   position: relative;
   width: 100%;
-  min-height: 350px;
+  min-height: 450px;
   padding: 50px;
 }
 
-.containerr{
-  max-width: 1140px;
-  margin:0 auto;
-  padding: 10px;
-}
-.foot-line{
-  display: flex;
-}
-
- .title-product{
-  font-size: 13px;
-  font-weight: 200;
-  color: #878D90;
-  font-family: Arial, sans-serif;
-}
-
-.col-5 .par{
-  color:#CFD2D3;
-  min-width: 250px;
-  font-size: 13px;
-}
-
-.col-5 .par-one{
-  padding-top: 25px;
+ .footer-1 .first-link a {
+  text-decoration: none;
   color: #CFD2D3;
-  font-size: 13px;
-
-}
-
-.col-5 .foot-link{
-  border: 1px solid #283337;
-  background-color:#283337;
-  color:#FFFFFF;
-  border-radius: 60px;
-  padding: 10px ;
-  text-decoration: none;
   font-size: 12px;
-  padding-left: 30px;
-  padding-right: 30px;
-
-}
-
-.foot-line .tit-resources{
-  font-size: 13px;
-  font-weight: 200;
-  color: #878D90;
-  font-family: Arial, sans-serif;
-  padding-left: 35px;
-}
-
- a.par-two{
-  text-decoration: none;
-  list-style-type: none;
-  color:#CFD2D3;
-  font-weight: 300;
-  font-size: 11px;
-}
-.foot-line ul{
-  list-style-type: none;
-  min-width: 200px;
-}
-
- .image-vector{
-  padding-top: 25px;
-  padding-left: 0;
-}
-
-.sign-line{
+  font-weight: 400;
   
 }
+
+.footer-bottom{
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.foot-link{
+  border: 1px solid #283337;
+  background-color: #283337;
+  color: rgb(214, 207, 207);
+  border-radius: 50px;
+  padding: 10px 27px;
+  text-decoration: none;
+  font-size: 11px;
+  
+}
+
+
 .col-12 {
   flex-basis: 100%; /* flex: 100% 0 0; */
   flex-grow: 0;
